@@ -79,7 +79,7 @@ The application will be available at `http://portal_dev.local`
 1. **Clone the repository**
 ```bash
 git clone https://github.com/labidi/decade-matchmaking-service-portal.git
-cd oceandecade_portal/portal
+cd decade-matchmaking-service-portal
 ```
 
 2. **Install PHP dependencies**
